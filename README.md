@@ -1,8 +1,8 @@
 # Assignment 3 - Personal Portfolio
 
 ## Author
-Jordan Smith - COMP 163, Fall 2025  
-Email: jsmith@ncat.edu
+Christopher Arnold - COMP 163, Fall 2025  
+Email: crarnold@ncat.edu
 
 ## Description
 This Python program demonstrates mastery of Chapter 3 data types (strings, lists, tuples, sets, dictionaries) by organizing a personal college life portfolio and performing required calculations and analytics.
