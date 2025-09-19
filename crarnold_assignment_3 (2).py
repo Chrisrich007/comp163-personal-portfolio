@@ -12,18 +12,18 @@ credit_hours_list = [3, 3, 3, 3]
 gpa_history = [3.2, 3.6, 3.4, 3.7]
 
 #3. Contact Information (tuples) - aaccess by index only 
-emergency_contact = ("Mom", "Hannah Smith", "704-555-0199")
-home_address = ("456 Oak Street", "Charlotte, NC", "28202")
-instagram_info = ("Instagram", "@jordan_codes", 312)
-twitter_info = ("Twitter", "@jordandev", 127)
-birthday_info = ("Birthday", 5, 22, 2006)
+emergency_contact = ("Mom", "Shelly", "342-423-1343")
+home_address = ("234 Croodstaff Ave", "Raliegh, NC", "45734")
+instagram_info = ("Instagram", "@chrisrich2007", 312)
+twitter_info = ("Twitter", "@chrisrich2007", 127)
+birthday_info = ("Birthday", 8, 27, 2007)
 
 #4. Interest Tracking (sets)
 current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
 skills_to_learn_set = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
 career_interests_set = {"Software development", "Web development", "Data science", "Game development"}
 hobbies_set = {"Gaming", "Photography", "Reading", "Soccer", "Music" }
-entertainment_backlog_set = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
+entertainment_backlog_set = {"Naruto", "Barry", "Life", "Incantation", "Memento"}
 
 #5. Organizational Mapping (dictionaries)
 course_credits_dict = {"COMP 163":3, "MATH 150": 3, "ENG 101": 3, "HIS 105": 3}
@@ -144,4 +144,5 @@ print(f"Entertainment Backlog: {entertainment_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies_set)} activities")
 
 print("================================================================")
+
 
