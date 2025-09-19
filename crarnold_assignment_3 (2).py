@@ -26,21 +26,21 @@ hobbies_set = {"Gaming", "Photography", "Reading", "Soccer", "Music" }
 entertainment_backlog_set = {"Naruto", "Barry", "Life", "Incantation", "Memento"}
 
 #5. Organizational Mapping (dictionaries)
-course_credits_dict = {"COMP 163":3, "MATH 150": 3, "ENG 101": 3, "HIS 105": 3}
+course_credits_dict = {"COMP 163":3, "MATH 131": 3, "ENG 119": 3, "HIS 103": 3}
 course_professors_dict = {
 
     "COMP 163": "Prof. Rhodes", 
-    "MATH 150": "Dr. Lee",
-    "ENG 101": "Dr. Martinez",
-    "HIS 105": "Dr. Brown"
+    "MATH 131": "Prof. Gibson",
+    "ENG 119": "Prof. George",
+    "HIS 103": "Prof. Ndege"
 }
 course_rooms_dict = {
-    "COMP 163": "M-Eric 300", 
-    "MATH 150": "Marteena 201",
-    "ENG 101": "Crosby 121",
-    "HIS 105": "Crosby 210"
+    "COMP 163": "Mcnair 300", 
+    "MATH 131": "Marteena 201",
+    "ENG 119": "Academic Building 121",
+    "HIS 103": "Obline"
 }
-monthly_budget_dict = {"Food": 450, "Entertainment": 200, "Books": 125, "Transportation": 100}
+monthly_budget_dict = {"Food": 30, "Entertainment": 0, "Books": 10, "Transportation": 30}
 study_hours_per_subject_dict = {"Programming": 10, "Math": 8, "English":4, "History": 3}
 contact_directory_dict = {"Mom": "704-555-0199", "Roommate": "336-555-7821", "Academic Advisory": "336-334-5000"}
 
@@ -144,5 +144,6 @@ print(f"Entertainment Backlog: {entertainment_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies_set)} activities")
 
 print("================================================================")
+
 
 
