@@ -1,7 +1,3 @@
-# locally
-git clone https://github.com/<your-github-username>/comp163-personal-portfolio.git
-cd comp163-personal-portfolio
-
 # add the file with test data (Part 1)
 cp /path/to/your/username_assignment_3.py .     # or create file directly
 git add username_assignment_3.py
