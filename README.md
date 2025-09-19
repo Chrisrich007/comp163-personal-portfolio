@@ -1,6 +1,5 @@
 # add the file with test data (Part 1)
-cp /path/to/your/username_assignment_3.py .     # or create file directly
-git add username_assignment_3.py
+git add crarnold_assignment_3.py
 git commit -m "Initial portfolio with test data from Part 1"
 git push origin main
 # edit strings in username_assignment_3.py
