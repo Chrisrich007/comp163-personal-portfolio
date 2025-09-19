@@ -1,8 +1,8 @@
 #1. Personal Information (strings)
-full_name = "Jordan Smith"
-student_email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
-graduation_semester = "Spring 2028"
+full_name = "Christopher Arnold"
+student_email = "crarnold@ncat.edu"
+hometown = "Wake Forest, NC"
+graduation_semester = "Spring 2029"
 major = "Computer Science"
 
 #2. Academic Data (lists)
@@ -142,4 +142,5 @@ print(f"Total Courses Completed: {completed_courses_count}")
 print(f"Current Academic Load: {academic_load} weekly commitments")
 print(f"Entertainment Backlog: {entertainment_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies_set)} activities")
+
 print("================================================================")
