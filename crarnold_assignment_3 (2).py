@@ -6,7 +6,7 @@ graduation_semester = "Spring 2029"
 major = "Computer Science"
 
 #2. Academic Data (lists)
-current_courses = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
+current_courses = ["COMP 163", "MATH 131", "ENG 119", "HIS 103"]
 completed_courses = ["Biology", "Chemistry", "Calculus", "Spanish 1I", "World History"]
 credit_hours_list = [3, 3, 3, 3]
 gpa_history = [3.2, 3.6, 3.4, 3.7]
@@ -144,3 +144,4 @@ print(f"Entertainment Backlog: {entertainment_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies_set)} activities")
 
 print("================================================================")
+
