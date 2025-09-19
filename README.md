@@ -17,5 +17,5 @@ This Python program demonstrates mastery of Chapter 3 data types (strings, lists
 1. Ensure Python 3 is installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/<your-github-username>/comp163-personal-portfolio.git
+   git clone https://github.com/<Chrisrich007>/comp163-personal-portfolio.git
    cd comp163-personal-portfolio
